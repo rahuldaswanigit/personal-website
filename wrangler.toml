@@ -1,3 +1,3 @@
-name = "RD-worker"
+name = "rd-worker"
 main = "index.js" # Or worker.js, depending on your filename
 compatibility_date = "2025-06-13" # Use the date suggested in your error or a recent one
